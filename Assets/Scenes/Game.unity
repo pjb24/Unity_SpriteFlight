@@ -578,7 +578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boosterFlame: {fileID: 134882951}
   maxSpeed: 5
-  thrustForce: 1
+  thrustForce: 3
   scoreMultiplier: 10
   uiDocument: {fileID: 974440403}
   explosionEffect: {fileID: 1639214456422033620, guid: e3c7984e22e63694f9aaac53a0ede7ee, type: 3}
